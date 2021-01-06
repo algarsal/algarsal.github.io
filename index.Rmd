@@ -2,6 +2,7 @@
 title: "Tutoriales y reflexiones"
 description: |
   Página web personal del profesor Alfonso Garmendia
+output_dir: "docs"
 site: distill::distill_website
 ---
 

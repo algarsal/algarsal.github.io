@@ -22,4 +22,9 @@ Los pasos que he seguido para crear la web en github son:
 
 5. Empezar a escribir este recordatorio en el Readme de algarsal-web.
 
-6. 
+1. Crear un proyecto (new project) de RStudio de página web de distill (Distill website) eligiendo la carpeta "algarsal.github.io". Se crean un montón de archivos. Commit y Push. 
+    . Al abrir la web no funciona. 
+
+6. Crear el archivo .nojekyll en el raiz y en docs. Sigue sin funcionar. No era eso.
+
+7. Mover el archivo index.html de docs al raiz. Volver a probar. 
