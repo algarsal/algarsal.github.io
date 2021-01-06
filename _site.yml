@@ -1,12 +1,14 @@
 name: "algarsal.github.io"
 title: "Tutoriales y reflexiones"
 description: |
-  Tutoriales y reflexiones
-output_dir: "docs"
+  Página web del profesor Alfonso Garmendia
+output_dir: "."
 navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "blog"
+      href: blog/index.html
     - text: "About"
       href: docs/about.html
 output: distill::distill_article
