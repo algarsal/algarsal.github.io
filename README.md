@@ -25,6 +25,16 @@ Los pasos que he seguido para crear la web en github son:
 1. Crear un proyecto (new project) de RStudio de página web de distill (Distill website) eligiendo la carpeta "algarsal.github.io". Se crean un montón de archivos. Commit y Push. 
     . Al abrir la web no funciona. 
 
-6. Crear el archivo .nojekyll en el raiz y en docs. Sigue sin funcionar. No era eso.
+6. Crear otro proyecto de blog de distill (Distill blog), eligiendo la carpeta "algarsal.github.io/blog" para crear un blog. 
 
-7. Mover el archivo index.html de docs al raiz. Volver a probar. 
+   - Para actualizar el blog es necesario "Build" y "Build website" en el proyecto del blog. 
+   - Para actualizar la web, lo mismo pero en el proyecto de la web. 
+   - Los commits se pueden hacer desde cualquiera de los dos. 
+   
+7. Importante, en ambos archivos "_site.yml" poner 
+`output_dir: "."`
+
+9. Arreglar los links de ambos "_site.yml" para que coincidan. 
+    - En el del blog, poner ../index.html para el principal.
+    - En el principal, poner blog/index.html para el blog. 
+
