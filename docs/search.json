@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-01-06T18:41:38+01:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Tutoriales y reflexiones",
+      "description": "Página web personal del profesor Alfonso Garmendia\n",
+      "author": [],
+      "contents": "\nEsta página web pretende ser la continuación de la actual web y del actual blog del profesor Alfonso Garmendia. La idea es conseguir migrar a la web de github de forma que sea más amigable escribir nuevos posts.\nPor ahora los originales están en:\nhttps://garmendia.blogs.upv.es/\nhttp://personales.upv.es/algarsal/\n\n\n\n",
+      "last_modified": "2021-01-06T18:47:54+01:00"
+    }
+  ],
+  "collections": []
+}
