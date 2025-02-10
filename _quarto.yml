@@ -1,6 +1,6 @@
 project:
   type: website
-
+  output-dir: docs
 website:
   title: "Tutoriales y reflexiones"
   description: "Página web de Alfonso Garmendia"
@@ -22,7 +22,7 @@ website:
 format:
   html:
     theme:
-      - minty
+      # - minty
       - cosmo
       - brand
     css: styles.css
