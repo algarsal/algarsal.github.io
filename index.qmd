@@ -1,7 +1,7 @@
 ---
 title: "Tutoriales y reflexiones"
 description: Página web personal del profesor Alfonso Garmendia
-
+output_dir: "."
 ---
 
 ```{r setup, include=FALSE}
