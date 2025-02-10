@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Tutoriales y reflexiones"
+  description: "Página web de Alfonso Garmendia"
+  navbar:
+    left:
+      - text: "sobre (about)"
+        href: about.html
+      - text: "blog"
+        href: blog/index.html
+    right:
+      - icon: github
+        href: https://github.com/algarsal/algarsal.github.io
+        text: Github
+      - text: Blog antiguo (old)
+        href: https://garmendia.blogs.upv.es/
+      - text: Web antigua (old)
+        href: https://personales.upv.es/~algarsal/
+
+format:
+  html:
+    theme:
+      - minty
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+

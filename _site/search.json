@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog/about.html",
+    "href": "blog/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "blog/posts/welcome/index.html",
+    "href": "blog/posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "blog/posts/post-with-code/index.html",
+    "href": "blog/posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog de Alfonso Garmendia",
+    "section": "",
+    "text": "Probando\nQué pasa si le pongo texto.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 10, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 7, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tutoriales y reflexiones",
+    "section": "",
+    "text": "Esta página web pretende ser la continuación de la actual web y del actual blog del profesor Alfonso Garmendia. La idea es conseguir migrar a la web de github de forma que sea más amigable escribir nuevos posts.\nPor ahora los originales están en:\n\nhttps://garmendia.blogs.upv.es/\nhttp://personales.upv.es/algarsal/"
+  }
+]

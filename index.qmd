@@ -1,0 +1,26 @@
+---
+title: "Tutoriales y reflexiones"
+description: Página web personal del profesor Alfonso Garmendia
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Quarto webs: https://quarto.org/docs/websites/website-navigation.html
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+Esta página web pretende ser la continuación de la actual web y del actual blog del profesor Alfonso Garmendia. La idea es conseguir migrar a la web de github de forma que sea más amigable escribir nuevos posts. 
+
+Por ahora los originales están en: 
+
+- https://garmendia.blogs.upv.es/
+- http://personales.upv.es/algarsal/
+
